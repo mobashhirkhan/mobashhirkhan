@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Student at the University of Alberta pursuing Bachelors in Computer Science. 
+Recent gradudate from the University of Alberta. 
+Completed bachelors in Computer Science.
 
 
 
